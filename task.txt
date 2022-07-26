@@ -1,0 +1,18 @@
+Requirement Details: 
+1. Create Form with fields.
+
+·        Name ,
+·        Age,
+·        Occupation,
+·        Image,
+·        Address,
+·        Gender,
+·        Mobile,
+·        Phone
+
+Condition: - mobile number should be unique only, no field should require.
+
+2. Use local storage as the database , store all data inside the local storage.
+3. After submitting the data , create a different page and create a table view to see the record along with the image.
+4. Delete the record
+5. Update the record
