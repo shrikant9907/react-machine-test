@@ -1,17 +1,44 @@
 # React Basic Machine Test
 
-Steps to Run This Project
+## Steps to Run This Project
 
-## Install Dependencies
-`npm install`
+1. **Install Dependencies**
+   - Run `npm install` to install all necessary packages.
 
-## Start Project
-`npm start`
+2. **Start Project**
+   - Run `npm start` to launch the app in development mode.
+   - Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. **Create Build**
+   - Run `npm run build` to generate a production-ready build.
+   - The build will be created in a folder named `build`.
 
-## Create Build
-`npm run build`
+---
 
-It will create a build folder inside the app.
+## Project Requirements
+
+### 1. Form Creation
+- **Fields:**
+  - Name
+  - Age
+  - Occupation
+  - Image
+  - Address
+  - Gender
+  - Mobile
+  - Phone
+- **Conditions:**
+  - The mobile number should be unique.
+  - No field is required.
+
+### 2. Local Storage
+- Use local storage to save all form data.
+
+### 3. Data Management
+- **After Submission:**
+  - Redirect to a different page displaying a table view of the records.
+  - Include the image in the table view.
+
+- **Features:**
+  - Ability to delete records.
+  - Ability to update records.
