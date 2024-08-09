@@ -6,7 +6,7 @@ const PageNotFound = () => {
   return (
     <Layout>
       <h2>Page Not Found</h2>
-      <Link to="/">Go to Home</Link>
+      <Link to="https://shrikant9907.github.io/react-test-task1/">Go to Home</Link>
     </Layout>
   )
 }
