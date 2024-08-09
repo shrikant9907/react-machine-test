@@ -1,4 +1,4 @@
-# React Basic Machine Test
+# React Form with Local Storage and Data Management (Test Task)
 
 ## Steps to Run This Project
 
